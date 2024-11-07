@@ -1,6 +1,3 @@
-# -----------------------------------------------------------------------------------------------------
-# TS-CAM using Conformer as backbone is implemented based on https://github.com/pengzhiliang/Conformer
-# -----------------------------------------------------------------------------------------------------
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
