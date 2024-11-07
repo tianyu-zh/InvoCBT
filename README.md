@@ -1,7 +1,7 @@
 # InvoCBT
 
 This repository is the official implementation of the paper "InvoCBT: CNN and Transformer based framework for
-scribble-supervised medical image segmentation."
+scribble-supervised medical image segmentation".
 
 ## Datasets
 
